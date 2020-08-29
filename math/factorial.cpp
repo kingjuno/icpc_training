@@ -1,12 +1,8 @@
-#include<iostream>
-using namespace std;
-#define MAX 500
-
-int multiply(int x, int res[], int res_size);
+//if the no of digits of factorial is greater than 500 then just change size of array RES from 500 to a size greater than no of digits.
 
 void factorial(int n)
 {
-	int res[MAX];
+	int res[500];
 	res[0] = 1;
     	int res_size = 1;
 	for (int x=2; x<=n; x++)
@@ -36,11 +32,4 @@ int multiply(int x, int res[], int res_size)
         	res_size++;
     	}	
     	return res_size;
-}
-
-int main()
-{
-    	int num=100;
-      factorial(num);
-    	return 0;
 }
