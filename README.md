@@ -1,11 +1,6 @@
-## ICPC Notebook
-This notebook contains various algorithms in C++ and some training sets that i use to train for ICPC training.  
+# ICPC Notebook
+My templates and implementation of important algorithms and data structures in C++ for ICPC training and CP's.
 
-
-## Contents
-
-### Math
-- addition
-- factorial
-
-
+## Math
+  - Arithmetic operations([ Addition](https://github.com/kingjuno/icpc_training/blob/master/math/sum.cpp),[ multiplication](https://github.com/kingjuno/icpc_training/blob/master/math/multiplication.cpp),[ power](https://github.com/kingjuno/icpc_training/blob/master/math/power.cpp))
+  - [Factorial](https://github.com/kingjuno/icpc_training/blob/master/math/factorial.cpp)
