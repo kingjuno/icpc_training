@@ -9,5 +9,5 @@ My templates and implementation of important algorithms and data structures in C
   - [Print all permutation of a string](https://github.com/kingjuno/icpc_training/blob/master/string/permutation.cpp)
  
  ## Graph
-  -[DFS](https://github.com/kingjuno/icpc_training/blob/master/graph/DFS.cpp)
-  -[BFS](https://github.com/kingjuno/icpc_training/blob/master/graph/BFS.cpp)
+  - [DFS](https://github.com/kingjuno/icpc_training/blob/master/graph/DFS.cpp)
+  - [BFS](https://github.com/kingjuno/icpc_training/blob/master/graph/BFS.cpp)
