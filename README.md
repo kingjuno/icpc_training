@@ -6,4 +6,8 @@ My templates and implementation of important algorithms and data structures in C
   - [Factorial](https://github.com/kingjuno/icpc_training/blob/master/math/factorial.cpp)
 
 ## String
- - [Print all permutation of a string](https://github.com/kingjuno/icpc_training/blob/master/string/permutation.cpp)
+  - [Print all permutation of a string](https://github.com/kingjuno/icpc_training/blob/master/string/permutation.cpp)
+ 
+ ## Graph
+  -[DFS](https://github.com/kingjuno/icpc_training/blob/master/graph/DFS.cpp)
+  -[BFS](https://github.com/kingjuno/icpc_training/blob/master/graph/BFS.cpp)
