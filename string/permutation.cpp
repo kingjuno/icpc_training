@@ -8,8 +8,8 @@ void permute(string a, int l, int r)
     // Base case  
     if (l == r){ 
         cout<<a<<endl;
-				permutation.push_back(a);
-		}
+	permutation.push_back(a);
+    }
     else
     {  
         for (int i = l; i <= r; i++)  
