@@ -2,7 +2,11 @@
 My templates and implementation of important algorithms and data structures in C++ for ICPC training and CP's.
 
 ## Math
-  - Arithmetic operations([ Addition](https://github.com/kingjuno/icpc_training/blob/master/math/sum.cpp),[substraction](https://github.com/kingjuno/icpc_training/blob/master/math/substraction.cpp),[ multiplication](https://github.com/kingjuno/icpc_training/blob/master/math/multiplication.cpp),[ power](https://github.com/kingjuno/icpc_training/blob/master/math/power.cpp))
+  - Arithmetic operations
+    - [ Addition](https://github.com/kingjuno/icpc_training/blob/master/math/sum.cpp)
+    - [substraction](https://github.com/kingjuno/icpc_training/blob/master/math/substraction.cpp)
+    - [ multiplication](https://github.com/kingjuno/icpc_training/blob/master/math/multiplication.cpp)
+    - [ power](https://github.com/kingjuno/icpc_training/blob/master/math/power.cpp)
   - [Factorial](https://github.com/kingjuno/icpc_training/blob/master/math/factorial.cpp)
   - [Binomial Coefficient](https://github.com/kingjuno/icpc_training/blob/master/math/binomial_coefficient.cpp)
   
