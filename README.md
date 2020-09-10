@@ -17,8 +17,8 @@ My templates and implementation of important algorithms and data structures in C
   - [DFS](https://github.com/kingjuno/icpc_training/blob/master/graph/DFS.cpp)
   - [BFS](https://github.com/kingjuno/icpc_training/blob/master/graph/BFS.cpp)
 
-## Algorithms
-  - [count no of islands](https://github.com/kingjuno/icpc_training/blob/master/algorithms/no_of_islands.cpp)
+## Misc
+  - [count no of islands](https://github.com/kingjuno/icpc_training/blob/master/misc/no_of_islands.cpp)
   
 ## Training Materials
   - [Junior training sheet - Mostafa Saad](https://github.com/kingjuno/icpc_training/blob/master/training%20materials/Junior%20training%20sheet.xlsx)
