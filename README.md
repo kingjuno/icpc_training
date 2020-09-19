@@ -9,6 +9,8 @@ My templates and implementation of important algorithms and data structures in C
     - [ power](https://github.com/kingjuno/icpc_training/blob/master/math/power.cpp)
   - [Factorial](https://github.com/kingjuno/icpc_training/blob/master/math/factorial.cpp)
   - [Binomial Coefficient](https://github.com/kingjuno/icpc_training/blob/master/math/binomial_coefficient.cpp)
+  - [Sieve of eratosthenes O(N)](https://github.com/kingjuno/icpc_training/blob/master/math/sieve_of_eratosthenes.cpp)
+  - [Prime factors of a number](https://github.com/kingjuno/icpc_training/blob/master/math/prime_factors_of_number.cpp)
   
 ## String
   - [Print all permutation of a string](https://github.com/kingjuno/icpc_training/blob/master/string/permutation.cpp)
