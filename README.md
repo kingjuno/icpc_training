@@ -18,6 +18,9 @@ My templates and implementation of important algorithms and data structures in C
 ## Graph
   - [DFS](https://github.com/kingjuno/icpc_training/blob/master/graph/DFS.cpp)
   - [BFS](https://github.com/kingjuno/icpc_training/blob/master/graph/BFS.cpp)
+ 
+## Dynamic Programming
+  - [Kadane's algorithm](https://github.com/kingjuno/icpc_training/blob/master/dynamic%20programming/kadanes_algorithm.cpp)
 
 ## Misc
   - [count no of islands](https://github.com/kingjuno/icpc_training/blob/master/misc/no_of_islands.cpp)
